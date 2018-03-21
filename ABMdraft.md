@@ -7,6 +7,10 @@ _Nicholas Medina_
 * Term: Winter 2018
 
 
+__*LS COMMENTS:*__
+_Not a lot of comments at this time, other than to say that this a very thorough and well-thought out proposal, and I am very much looking forward to what you get from it. It also looks like a great foundation for future elaborations. Thanks for getting this in to me and if you have any particular questions or run into any problems, please let me know._
+
+
 ### Goal
 *****
 _Provide a short, 1-3 sentence description of the goal of your model_
